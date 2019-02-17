@@ -10,3 +10,5 @@
 + Reading and parsing JSON data.
 + Customizing ListViews,using ArrayLists & ArrayAdapters.
 + Using progress bar and listview empty for better UX.
+## Screenshots
+<img src="https://github.com/arunb950/QuakeRepo/blob/master/loading.png" width ="100px">

@@ -13,4 +13,4 @@
 ## Screenshots
 <img src="https://github.com/arunb950/QuakeRepo/blob/master/loading.png" width ="100px">
 <img src="https://github.com/arunb950/QuakeRepo/blob/master/no_internet.png" width = "100px">
-<img src = "https://github.com/arunb950/QuakeRepo/blob/master/normal.png" width = "100px">
+<img src = "https://github.com/arunb950/QuakeRepo/blob/master/normal%5B1%5D.png" width = "100px">
